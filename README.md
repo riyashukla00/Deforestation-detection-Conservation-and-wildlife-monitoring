@@ -1,1 +1,1 @@
-# Deforestation-detection-Conservation-and-wildlife-monitoring
+# Automated-wildlife-monitoring
